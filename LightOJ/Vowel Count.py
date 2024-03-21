@@ -1,0 +1,10 @@
+t = int(input())
+for i in range(t):
+    vowel = input()
+    small = vowel.lower()
+    find_1 = small.count("a")
+    find_2 = small.count("e")
+    find_3 = small.count("i")
+    find_4 = small.count("o")
+    find_5 = small.count("u")
+    print("Number of vowels =", find_1 + find_2 + find_3 + find_4 + find_5)

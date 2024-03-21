@@ -1,0 +1,17 @@
+
+1. You are given a list of integers.Find the second largest integer.
+input:
+1 2 4 9 10 2
+output:
+9
+2. You are given a list of integers. Find the 4th smallest integer.
+input:
+1 2 3 4 5 10 2 4
+output:
+3
+
+3. You are given a string. Now find the smallest character among them.
+input: 
+abcded
+output: 
+a

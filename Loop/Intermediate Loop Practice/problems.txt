@@ -1,0 +1,15 @@
+1. You are given a list of numbers. print only the even numbers in sorted order
+input: 5  3 2 1 4 3 6 3 2 3 6
+output : 2 2 4 6 6
+2.You are given a list of numbers. Find the multiplication of all numbers
+input: 2 3 1 2 3
+output: 36
+3. You are given a list of numbers. Find the difference between the multiplication
+of the even numbers and the multiplication of odd numbers
+input: 1 2 3 4 2 3
+output : 7
+
+4. You are given a string find the sum of ascii code of all the alphabets.
+input: ab 
+output: 131 
+

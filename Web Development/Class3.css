@@ -1,0 +1,20 @@
+#place1{
+    color: green;
+}
+
+#place2{
+    color: silver;
+}
+
+#place3{
+    color: brown;
+}
+
+.fav-place{
+    color: #1580ad;
+}
+
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
